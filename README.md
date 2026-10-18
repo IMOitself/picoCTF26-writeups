@@ -29,9 +29,9 @@ dont need to explain that much, goodluck :>
 <summary>- Printer Shares - easy</summary>
 
 **solution:**
-- ![](<general-skills\printershares\recording.gif>)
+- ![](<general-skills/printershares/recording.gif>)
 
-![](<general-skills\printershares\Screenshot 2026-10-18 132041.png>)
+![](<general-skills/printershares/Screenshot 2026-10-18 132041.png>)
 
 <br>
 
@@ -43,9 +43,9 @@ dont need to explain that much, goodluck :>
 <summary>- Bytemancy 0 - easy</summary>
 
 **solution:**
-- ![](<general-skills\bytemancy0\recording.gif>)
+- ![](<general-skills/bytemancy0/recording.gif>)
 
-![](<general-skills\bytemancy0\Screenshot 2026-10-18 131823.png>)
+![](<general-skills/bytemancy0/Screenshot 2026-10-18 131823.png>)
 
 <br>
 
