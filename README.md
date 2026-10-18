@@ -39,6 +39,20 @@ dont need to explain that much, goodluck :>
 
 </details>
 
+<details>
+<summary>- Bytemancy 0 - easy</summary>
+
+**solution:**
+- ![](<general-skills\bytemancy0\recording.gif>)
+
+![](<general-skills\bytemancy0\Screenshot 2026-10-18 131823.png>)
+
+<br>
+
+
+
+</details>
+
 # <br><br>CHEATSHEETS :D
 - [**Forensics**](#forensics)
   - [extracting texts from a file](#extracting-texts-from-a-file)
